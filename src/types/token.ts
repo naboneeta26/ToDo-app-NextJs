@@ -1,0 +1,3 @@
+ type TokenPayLoad = {
+    userId: number
+};
